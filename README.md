@@ -1,2 +1,1 @@
-# machineResource
-collect server resource
+# collect server resource usage
