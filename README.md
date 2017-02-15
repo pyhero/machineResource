@@ -1,0 +1,2 @@
+# machineResource
+collect server resource
